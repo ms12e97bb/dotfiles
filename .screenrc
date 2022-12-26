@@ -1,0 +1,5 @@
+
+
+startup_message off
+hardstatus alwayslastline '%{= kw}[%Y-%m-%d %02c:%s] %{= .y}%H %L=%{= .w}%-w%46>%{= .g}%n %t*%{= .w}%+w%-16=%{= .w}[%l]'
+
