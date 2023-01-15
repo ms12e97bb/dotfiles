@@ -1,5 +1,6 @@
 call plug#begin()
 Plug 'scrooloose/nerdtree'
+Plug 'simeji/winresizer'
 call plug#end()
 
 "NERDTree --------------------------------
