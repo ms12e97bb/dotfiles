@@ -5,4 +5,5 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 
 cp .bash_profile ~/
 cp .vimrc ~/
+cp .tmux.conf ~/
 cp .screenrc ~/
